@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jobelfch15
-- 👀 I’m interested in Liverppol FC, guitars and indiepop.
-- 🌱 I’m currently learning Rust.
 
 
 <!---
